@@ -1,5 +1,5 @@
 1. How much is the current memory capacity of a canister? 
-answer: 4 GB since currently memory uses a 32-bit addressing scheme.
+answer: 48 GB.
 
 2. What is the issue with the following code sample? 
 actor {
